@@ -58,7 +58,7 @@ export default () => ({
       About: "E-commerce website."
     ],
   }
-  Experiences: {
+  Experiences: { 
     Volunteer - experiences: {
       [
        Title: "Freelance Web Developer",
@@ -91,7 +91,7 @@ export default () => ({
 <br>
 
 ## Have An Idea ✨...?
-### Contact Me 📞!!!
+### *Let's connect 🔗 and chat !!!*
 
 <br>
   <a href="https://www.linkedin.com/in/jaisal-shah-a427061aa/">
