@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>Nagindas Khandwala College</b>, University Of Mumbai</a>. <br>
+    I am a 3rd Year undergraduate from <a href="https://nkc.ac.in/"> <b>Nagindas Khandwala College</b>, University Of Mumbai</a>. <br>
     A budding <b>Application/Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>Artificial Intelligence Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -94,7 +94,7 @@ export default () => ({
 ### Contact Me 📞!!!
 
 <br>
-  <a href="www.linkedin.com/in/Jaisal-Shah">
+  <a href="https://www.linkedin.com/in/jaisal-shah-a427061aa/">
     <img align="left" alt="Jaisal Shah | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/jaisalshah4">
