@@ -90,7 +90,7 @@ export default () => ({
 
 <br>
 
-## Have an Idea ✨...?
+## Have An Idea ✨...?
 ### Contact Me 📞!!!
 
 <br>
