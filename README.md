@@ -43,13 +43,13 @@ export default () => ({
       Title: "COVID-19 Tracker",
       Type: "Android/iOS Application",
       Technology: "Flutter",
-      About: "An app that refreshes every 10 minutes and displays the latest COVID-19 Numbers of India. It also             displays data of Worldwide cumulative results"
+      About: "An app that refreshes every 10 minutes and displays the latest COVID-19 Numbers of India. It also displays data of Worldwide cumulative results"
     ],
     [
       Title: "Instobooks",
       Type: "Android Application (Academic Project)",
       Technology: "Android Studio (Java)",
-      About: "Instobooks helps Small Shopkeepers and Kirana owners manage Credit & Debit transactions using their           digital ledger service. It also promotes the Digital India Movement by making                                  shopkeepers/vendors/normal citizens to migrate towards the digital cash flow."
+      About: "Instobooks helps Small Shopkeepers and Kirana owners manage Credit & Debit transactions using their digital ledger service. It also promotes the Digital India Movement<br/> by making shopkeepers/vendors/normal citizens to migrate towards the digital cash flow."
     ],
     [
       Title: "kirana-kart",
@@ -90,8 +90,8 @@ export default () => ({
 
 <br>
 
-## Have an Idea ...?
-### Contact Me!!!
+## Have an Idea ✨...?
+### Contact Me 📞!!!
 
 <br>
   <a href="www.linkedin.com/in/Jaisal-Shah">
