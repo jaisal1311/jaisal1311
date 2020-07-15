@@ -36,6 +36,8 @@ export default () => ({
   },
   Technologies: {
     Core : ["python", "java", "SQL", "C", "C ++", "javascript", loading ...],
+    Frameworks & Libraries: [ 'Pytorch', 'Flask', 'Django', 'Flutter', 'Android',
+                            'Pandas', 'Numpy', 'Seaborn', 'Matplotlib',...and loading],
     Others : ["git", "css", "php", "IoT", loading ...],
   },
   Projects: {
@@ -49,7 +51,8 @@ export default () => ({
       Title: "Instobooks",
       Type: "Android Application (Academic Project)",
       Technology: "Android Studio (Java)",
-      About: "Instobooks helps Small Shopkeepers and Kirana owners manage Credit & Debit transactions using their digital ledger service. It also promotes the Digital India Movement<br/> by making shopkeepers/vendors/normal citizens to migrate towards the digital cash flow."
+      About: "Instobooks helps Small Shopkeepers and Kirana owners manage Credit & Debit transactions using their digital ledger service.
+             It also promotes the Digital India Movement<br/> by making shopkeepers/vendors/normal citizens to migrate towards the digital cash flow."
     ],
     [
       Title: "kirana-kart",
@@ -78,6 +81,13 @@ export default () => ({
       Issue Date: "Jun-2020",
       Expiry: "No Expiry",
       Credential ID: "MFQWCYJXGE"
+    ],
+    [
+      Title: "JavaScript Algorithms and Data Structures",
+      Issuing Authority: "freeCodeCamp",
+      Issue Date: "July-2020",
+      Expiry: "No Expiry",
+      Credential URL: "https://www.freecodecamp.org/certification/jaisal1311/javascript-algorithms-and-data-structures"
     ]
   }
 });
