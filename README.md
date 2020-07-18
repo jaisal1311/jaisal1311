@@ -14,8 +14,7 @@
 
   ```js
 export default () => ({
-  Pronouns: "He" | "Him",
-  PubKey: "866E 3ED1 217B 85DC",
+  
   AskMeAbout: [
     "application-dev", "web-dev", "machine-learning",
     "mathematics", loading ...
@@ -95,9 +94,7 @@ export default () => ({
 
 <br>
 
-
-![Jaisal's github stats](https://github-readme-stats.vercel.app/api?username=jaisal1311&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![Jaisal Shah's github stats](https://github-readme-stats.vercel.app/api?username=jaisal1311&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["prs"])
 <br>
 
 ## Have An Idea ✨...?
