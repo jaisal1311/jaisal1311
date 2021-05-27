@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a final Year undergraduate from <a href="https://nkc.ac.in/"> <b>Nagindas Khandwala College</b>, University Of Mumbai</a>. <br>
+    I am a Computer Science Graduate from <a href="https://nkc.ac.in/"> <b>Nagindas Khandwala College</b>, University Of Mumbai</a>. <br>
     A budding <b>Application/Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>Artificial Intelligence Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
