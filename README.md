@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I am a Computer Science Graduate from <a href="https://nkc.ac.in/"> <b>Nagindas Khandwala College</b>, University Of Mumbai</a>. <br>
+    I am a Computer Science Graduate from <a href="https://nkc.ac.in/"> University Of Mumbai</a>. <br>
     A budding <b>Application/Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>Artificial Intelligence Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -16,7 +16,7 @@
 export default () => ({
   
   AskMeAbout: [
-  "fullstack-dev",
+  "fullstack-dev", "blockchain-development",
     "application-dev", "web-dev", "machine-learning",
     "mathematics", loading ...
   ],
@@ -28,8 +28,8 @@ export default () => ({
       frameworks : ["pyTorch", loading ...]
     },
     Web - Development : {
-      Front-End : ["ReactJS",,"HTML", "Bootstrap", "tailwindCSS", ...],
-      Back-End : ["django", "JavaScript", loading ...],
+      Front-End : ["ReactJS", "Redux" , "Bootstrap", "tailwindCSS", ...],
+      Back-End : ["Node.JS", loading ...],
       Misc: ["bash", loading ...]
     }
   },
