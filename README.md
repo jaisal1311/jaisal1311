@@ -46,7 +46,7 @@ export default () => ({
 
 <br>
 
-## <a href="https://jaisal-shah.herokuapp.com/"> Download CV/Portfolio </a>
+## <a href="https://drive.google.com/file/d/1hdQiI3X7AAm75pCMiDG1EREQnsMTs3cV/view?usp=sharing"> Download CV/Portfolio </a>
 <!-- ![Download CV/Portfolio](https://jaisal-shah.herokuapp.com/) -->
 
 ![Jaisal Shah's github stats](https://github-readme-stats.vercel.app/api?username=jaisal1311&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["prs"])
